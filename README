@@ -1,0 +1,27 @@
+Budget App 
+
+Overview 
+A simple budgeting app.
+
+How It Works
+Users enter how much they have earned in their paycheck. 
+The app calculates how much of their check should go 
+towards needs, wants, and debt and savings goals. 
+
+The app uses the 50-30-20 rule in this calculation.
+- 50% of the income goes towards needs
+- 30% of the income goes towards wants 
+- 20% of the income goes towards savings/debts  
+
+Each user has 3 accounts from which to record
+expenses. 
+
+Needs
+Wants 
+Savings/Debts
+
+Every time a purchase is made it comes from one of these 3 accounts. 
+If a purchase exceeds a given category, the remainder can come from 
+another account as long as there are sufficient funds. 
+
+
